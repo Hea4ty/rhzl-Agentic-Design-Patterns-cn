@@ -1,12 +1,10 @@
-[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/ginobefun-agentic-design-patterns-cn-badge.png)](https://mseep.ai/app/ginobefun-agentic-design-patterns-cn)
-
 # Agentic Design Patterns | <mark>智能体设计模式</mark>
 
 ## A Hands-On Guide to Building Intelligent Systems | <mark>构建智能系统的实践指南</mark>
 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
-[![GitHub stars](https://img.shields.io/github/stars/ginobefun/agentic-design-patterns-cn)](https://github.com/ginobefun/agentic-design-patterns-cn/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/ginobefun/agentic-design-patterns-cn)](https://github.com/ginobefun/agentic-design-patterns-cn/network)
+[![GitHub stars](https://img.shields.io/github/stars/fzy2012/rhzl-Agentic-Design-Patterns-cn)](https://github.com/fzy2012/rhzl-Agentic-Design-Patterns-cn/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/fzy2012/rhzl-Agentic-Design-Patterns-cn)](https://github.com/fzy2012/rhzl-Agentic-Design-Patterns-cn/network)
 
 **原书作者 (Author)**: [Antonio Gulli](https://www.linkedin.com/in/searchguy/)
 
@@ -21,6 +19,8 @@
 本项目是对 Antonio Gulli 所著《Agentic Design Patterns: A Hands-On Guide to Building Intelligent Systems》的**中英文对照翻译**。该书是一部全面的技术指南，涵盖了现代人工智能系统中智能体 (Agent) 设计的核心概念和实践方法。
 
 This project is a **bilingual Chinese-English translation** of "Agentic Design Patterns: A Hands-On Guide to Building Intelligent Systems" by Antonio Gulli. The book is a comprehensive technical guide covering core concepts and practical approaches to agent design in modern AI systems.
+
+**本项目由 [入行365](https://www.ruhang365.cn) 团队维护。** | *This project is maintained by the Ruhang365 team.*
 
 ---
 
@@ -145,8 +145,8 @@ This project is a **bilingual Chinese-English translation** of "Agentic Design P
 
 ```bash
 # 克隆仓库
-git clone https://github.com/ginobefun/agentic-design-patterns-cn.git
-cd agentic-design-patterns-cn
+git clone https://github.com/fzy2012/rhzl-Agentic-Design-Patterns-cn.git
+cd rhzl-Agentic-Design-Patterns-cn
 
 # 创建虚拟环境（推荐）
 python3 -m venv venv
@@ -248,18 +248,19 @@ python codes/Chapter-01-Prompt-Chaining-Example.py
 
 ## 💬 交流社区 | Community
 
-欢迎加入我们的微信交流群，无论你是想一起阅读、交流心得，还是对翻译提出宝贵建议，都欢迎你的加入。后续我们还会组织交流或直播活动哦！
+欢迎关注入行365公众号，获取更多AI学习资源和技术分享！
 
 <div align="center">
-  <img src="images/wechat_group.jpg" alt="微信交流群" width="300"/>
+  <img src="images/ruhang365_qrcode.jpg" alt="入行365公众号" width="300"/>
+  <p><strong>扫码关注入行365公众号</strong></p>
 </div>
 
-**📝 加群说明**：
+**📝 关于入行365**：
 
-- 🚫 微信群已满 200 人，无法直接扫码加入
-- ✅ 请添加 Gino 的个人微信：**xingxing174556571**
-- 💬 备注"智能体设计模式"，将拉您入群
-- 🤝 一个人看书不如一群人讨论。加入我们吧 ~
+- 📚 专注于AI技术学习与实践分享
+- 🎓 提供优质的技术翻译和原创内容
+- 🌟 致力于推动中文AI技术社区发展
+- 💡 持续分享前沿AI知识和实践经验
 
 ---
 
